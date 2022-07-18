@@ -1,18 +1,21 @@
 .projects { 
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 30px;
+  grid-auto-rows: auto;
+  gap: 10px;
 }
 .project {  
   position: relative;
   border: 2px solid white;
   border-radius: 6px;
-  margin: 30px;
-  transition: ease-in-out .2s;
+  min-height: 300px;
+  margin: 30px;  
+  transition: ease-in-out .4s;
+  font-size: 1.2em;
 }
 .project:hover {
   cursor: pointer;
-  transform: scale(1.1);
+  transform: scale(1.1);  
 }
 .project > img {
   position: absolute; 
@@ -20,21 +23,21 @@
   height: 100%;
   z-index: 10;  
   opacity: 1;  
-  transition: ease-in-out .2s; 
 }
-.project:hover > img{  
-  opacity: 0.5;
+.project:hover > img {  
+  opacity: 0.3;
   z-index: -10;
 }
-.project:hover > a{  
+.project:hover > a {  
   z-index: 10;
   color: #fff;
+  padding: 10px; 
 }
 .project > a {
   color: #fff;   
   text-decoration: none;
   display: flex;
   flex-direction: column;  
-  align-items: center;
+  align-items: center;  
 }
 
