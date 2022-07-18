@@ -1,1 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan:wght@300&family=Marcellus+SC&display=swap');
 
+.App {
+  background-color: rgb(33, 78, 114);
+}
+h1, h2 {
+  font-family: 'Marcellus SC', serif;
+}
+p {
+  font-family: 'Kodchasan', sans-serif;
+}
