@@ -1,7 +1,7 @@
 .projects { 
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;  
-  grid-template-rows: auto;
+  grid-template-rows: auto;  
   gap: 40px;
   padding: 50px;
 }
@@ -39,6 +39,12 @@
   display: flex;
   flex-direction: column;  
   align-items: center;  
+}
+.heading {
+  width: 90%;
+  font-family: 'Marcellus SC', serif;
+  border-bottom: 1px solid white;
+  margin-bottom: 0px;    
 }
 
 @media screen and (max-width: 1230px) {

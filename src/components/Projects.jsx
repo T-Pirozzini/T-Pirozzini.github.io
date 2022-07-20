@@ -19,8 +19,13 @@ import Ttt from '../assets/images/tictactoe-home.png'
 
 export default function Projects() {
   
-  return (    
-    <div className="projects">    
+  return ( 
+    <>   
+
+    {/* Full-stack */}
+    <h3 className='heading'>Full-Stack</h3>
+    <div className="projects">
+
       <article className="project">        
         <img src={Spuddy} alt="spuddies restaurant application" />       
         <a href="https://spuddies-food-ordering.herokuapp.com/">
@@ -41,8 +46,24 @@ export default function Projects() {
             <p>Stack: HTML CSS JS React PostgreSQL Leaflet Mapbox Stripe</p>
           </div>
         </a>        
+      </article>      
+
+      <article className="project">        
+        <img src={Recipe} alt="recipe application" />       
+        <a href="https://cooking-web-application.firebaseapp.com/">
+          <h2>Recipe Book</h2>
+          <div className="content">
+            <p>Recipe book application</p>
+            <p>Stack: HTML CSS JS React Firebase</p>
+          </div>
+        </a>
       </article>
 
+      </div>
+
+    {/* Front-end */}
+    <h3 className='heading'>Front-End</h3>
+    <div className="projects">
       <article className="project">        
         <img src={GPT} alt="open AI application" />       
         <a href="https://62857e96c2d87717e882e101--earnest-swan-080405.netlify.app/">
@@ -64,6 +85,50 @@ export default function Projects() {
           </div>
         </a>
       </article>
+
+      <article className="project">        
+        <img src={Book} alt="book shelf application" />       
+        <a href="https://t-pirozzini.github.io/Book-Shelf/">
+          <h2>Book Shelf</h2>
+          <div className="content">
+            <p>Book Shelf/Library application</p>
+            <p>Stack: HTML CSS JS</p>
+          </div>
+        </a>
+      </article> 
+
+    </div>
+
+    {/* Responsive web design */}
+    <h3 className='heading'>Responsive Web Design</h3>
+    <div className="projects">
+      
+    <article className="project">        
+        <img src={Dnd} alt="dnd application" />       
+        <a href="https://t-pirozzini.github.io/landing_page/">
+          <h2>D&D Landing Page</h2>
+          <div className="content">
+            <p>A Landing Page for my Rhyme of the Frostmaiden❄️ D&D Campaign</p>
+          </div>
+        </a>
+      </article>
+
+      <article className="project">        
+        <img src={Restaurant} alt="restaurant application" />       
+        <a href="https://t-pirozzini.github.io/Restaurant-Page/">
+          <h2>Restaurant Page</h2>
+          <div className="content">
+            <p>Simple restaurant page application</p>
+            <p>Stack: HTML CSS JS</p>
+          </div>
+        </a>
+      </article>
+
+    </div>
+
+    {/* Games */}
+    <h3 className='heading'>Games</h3>
+    <div className="projects">
 
       <article className="project">        
         <img src={RPS} alt="rock, paper, scissors application" />       
@@ -95,39 +160,7 @@ export default function Projects() {
             <p>Stack: HTML CSS JS</p>
           </div>
         </a>
-      </article>
-
-      <article className="project">        
-        <img src={Dnd} alt="dnd application" />       
-        <a href="https://t-pirozzini.github.io/landing_page/">
-          <h2>D&D Landing Page</h2>
-          <div className="content">
-            <p>A Landing Page for my Rhyme of the Frostmaiden❄️ D&D Campaign</p>
-          </div>
-        </a>
-      </article>
-
-      <article className="project">        
-        <img src={Recipe} alt="recipe application" />       
-        <a href="https://cooking-web-application.firebaseapp.com/">
-          <h2>Recipe Book</h2>
-          <div className="content">
-            <p>Recipe book application</p>
-            <p>Stack: HTML CSS JS React Firebase</p>
-          </div>
-        </a>
-      </article>
-
-      <article className="project">        
-        <img src={Restaurant} alt="restaurant application" />       
-        <a href="https://t-pirozzini.github.io/Restaurant-Page/">
-          <h2>Restaurant Page</h2>
-          <div className="content">
-            <p>Simple restaurant page application</p>
-            <p>Stack: HTML CSS JS</p>
-          </div>
-        </a>
-      </article>
+      </article>  
 
       <article className="project">        
         <img src={Ttt} alt="tic-tac-toe application" />       
@@ -140,16 +173,7 @@ export default function Projects() {
         </a>
       </article>
 
-      <article className="project">        
-        <img src={Book} alt="book shelf application" />       
-        <a href="https://t-pirozzini.github.io/Book-Shelf/">
-          <h2>Book Shelf</h2>
-          <div className="content">
-            <p>Book Shelf/Library application</p>
-            <p>Stack: HTML CSS JS</p>
-          </div>
-        </a>
-      </article>         
     </div>
+    </>
   )
 }
