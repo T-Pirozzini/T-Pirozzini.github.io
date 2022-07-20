@@ -25,7 +25,7 @@ export default function Projects() {
         <img src={Spuddy} alt="spuddies restaurant application" />       
         <a href="https://spuddies-food-ordering.herokuapp.com/">
           <h2>Spuddies Restaurant</h2>
-          <div>											
+          <div className='content'>											
             <p>Food ordering application</p>
             <p>Stack: HTML CSS JS PostgreSQL Twilio</p>            
           </div>
