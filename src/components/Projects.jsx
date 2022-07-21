@@ -44,16 +44,16 @@ export default function Projects() {
 
     <article className="project">        
         <img src={SportsDashboard} alt="sports dashboard application" />       
-        <a href="https://financetracker-f047d.web.app/">
-          <h2>FinanceTracker</h2>
+        <a href="https://hockeydashboard-a443f.web.app/">
+          <h2>Sports Dashboard</h2>
           <div className="content">
-            <p>Transaction tracking application</p>
+            <p>Hockey League application</p>
             <p>Stack: HTML CSS JS React Firebase</p>											
           </div>
         </a>
       </article>
     <article className="project">        
-        <img src={Finance} alt="fianance tracker application" />       
+        <img src={Finance} alt="finance tracker application" />       
         <a href="https://financetracker-f047d.web.app/">
           <h2>FinanceTracker</h2>
           <div className="content">
@@ -73,28 +73,28 @@ export default function Projects() {
         </a>        
       </article>
       <article className="project">        
-        <img src={Workout} alt="fianance tracker application" />       
-        <a href="https://financetracker-f047d.web.app/">
-          <h2>FinanceTracker</h2>
+        <img src={Workout} alt="workout tracker application" />       
+        <a href="https://github.com/T-Pirozzini/MERN-Workout">
+          <h2>MERN Workout</h2>
           <div className="content">
-            <p>Transaction tracking application</p>
-            <p>Stack: HTML CSS JS React Firebase</p>											
+            <p>MERN workout application</p>
+            <p>Stack: MongoDB Express React Node</p>											
           </div>
         </a>
       </article>
       <article className="project">        
-        <img src={Workflow} alt="fianance tracker application" />       
-        <a href="https://financetracker-f047d.web.app/">
-          <h2>FinanceTracker</h2>
+        <img src={Workflow} alt="workflow application" />       
+        <a href="https://workflow-3b9d0.web.app/">
+          <h2>Workflow</h2>
           <div className="content">
-            <p>Transaction tracking application</p>
+            <p>Project management application</p>
             <p>Stack: HTML CSS JS React Firebase</p>											
           </div>
         </a>
       </article>
       <article className="project">        
         <img src={FoodTruck} alt="food truck application" />       
-        <a href="https://628686b4787a3b03908a9839--chipper-buttercream-16e62d.netlify.app/">
+        <a href="https://github.com/T-Pirozzini/FoodTruck-Finder">
           <h2>FoodTruck Finder</h2>
           <div className="content">
             <p>Food truck locating application</p>
@@ -103,12 +103,12 @@ export default function Projects() {
         </a>        
       </article>
       <article className="project">        
-        <img src={Scheduler} alt="fianance tracker application" />       
-        <a href="https://financetracker-f047d.web.app/">
-          <h2>FinanceTracker</h2>
+        <img src={Scheduler} alt="scheduler application" />       
+        <a href="https://github.com/T-Pirozzini/scheduler">
+          <h2>Scheduler</h2>
           <div className="content">
-            <p>Transaction tracking application</p>
-            <p>Stack: HTML CSS JS React Firebase</p>											
+            <p>Scheduling application</p>
+            <p>Stack: HTML CSS JS React PSQL</p>											
           </div>
         </a>
       </article>     
