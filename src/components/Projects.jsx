@@ -128,6 +128,7 @@ export default function Projects() {
     {/* Front-end */}
     <h3 className='heading'>Front-End</h3>
     <div className="projects">
+
       <article className="project">        
         <img src={GPT} alt="open AI application" />       
         <a href="https://62857e96c2d87717e882e101--earnest-swan-080405.netlify.app/">
@@ -139,62 +140,62 @@ export default function Projects() {
         </a>
       </article>      
       <article className="project">        
-        <img src={DevFinder} alt="fianance tracker application" />       
-        <a href="https://financetracker-f047d.web.app/">
-          <h2>FinanceTracker</h2>
+        <img src={DevFinder} alt="dev finder application" />       
+        <a href="https://dev-finder.vercel.app/">
+          <h2>DevFinder</h2>
           <div className="content">
-            <p>Transaction tracking application</p>
-            <p>Stack: HTML CSS JS React Firebase</p>											
+            <p>Developer finder application</p>
+            <p>Stack: HTML CSS JS React Next Vercel</p>											
           </div>
         </a>
       </article>
       <article className="project">        
-        <img src={Gaming} alt="fianance tracker application" />       
-        <a href="https://financetracker-f047d.web.app/">
-          <h2>FinanceTracker</h2>
+        <img src={Gaming} alt="gaming guide application" />       
+        <a href="https://github.com/T-Pirozzini/game-review">
+          <h2>Game Review</h2>
           <div className="content">
-            <p>Transaction tracking application</p>
-            <p>Stack: HTML CSS JS React Firebase</p>											
+            <p>Gaming guide application</p>
+            <p>Stack: HTML CSS JS React Next Netlify</p>											
           </div>
         </a>
       </article>
       <article className="project">        
-        <img src={Tracker} alt="fianance tracker application" />       
-        <a href="https://financetracker-f047d.web.app/">
-          <h2>FinanceTracker</h2>
+        <img src={Tracker} alt="finance logger application" />       
+        <a href="https://github.com/T-Pirozzini/Transaction-Log">
+          <h2>Finance Logger</h2>
           <div className="content">
             <p>Transaction tracking application</p>
-            <p>Stack: HTML CSS JS React Firebase</p>											
+            <p>Stack: HTML CSS Typescript Webpack</p>											
           </div>
         </a>
       </article>
       <article className="project">        
-        <img src={Shinobi} alt="fianance tracker application" />       
-        <a href="https://financetracker-f047d.web.app/">
-          <h2>FinanceTracker</h2>
+        <img src={Shinobi} alt="shinobi component library" />       
+        <a href="https://github.com/T-Pirozzini/shinobi-css">
+          <h2>Shinobi</h2>
           <div className="content">
-            <p>Transaction tracking application</p>
-            <p>Stack: HTML CSS JS React Firebase</p>											
+            <p>SCSS component library</p>
+            <p>Stack: SCSS</p>											
           </div>
         </a>
       </article>
       <article className="project">        
-        <img src={Todo} alt="fianance tracker application" />       
-        <a href="https://financetracker-f047d.web.app/">
-          <h2>FinanceTracker</h2>
+        <img src={Todo} alt="todo list application" />       
+        <a href="https://github.com/T-Pirozzini/todo-list">
+          <h2>To Do List</h2>
           <div className="content">
-            <p>Transaction tracking application</p>
-            <p>Stack: HTML CSS JS React Firebase</p>											
+            <p>To Do list application</p>
+            <p>Stack: HTML CSS JS</p>											
           </div>
         </a>
       </article>
       <article className="project">        
-        <img src={Tweeter} alt="fianance tracker application" />       
+        <img src={Tweeter} alt="tweeter application" />       
         <a href="https://financetracker-f047d.web.app/">
-          <h2>FinanceTracker</h2>
+          <h2>Tweeter</h2>
           <div className="content">
-            <p>Transaction tracking application</p>
-            <p>Stack: HTML CSS JS React Firebase</p>											
+            <p>Twitter clone application</p>
+            <p>Stack: HTML CSS JS</p>											
           </div>
         </a>
       </article>
