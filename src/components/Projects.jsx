@@ -214,60 +214,59 @@ export default function Projects() {
 
     {/* Responsive web design */}
     <h3 className='heading'>Responsive Web Design</h3>
-    <div className="projects">
-      
+    <div className="projects">      
 
       <article className="project">        
-        <img src={TwelveCol} alt="dnd application" />       
-        <a href="https://t-pirozzini.github.io/landing_page/">
-          <h2>D&D Landing Page</h2>
+        <img src={TwelveCol} alt="12-column grid layout" />       
+        <a href="https://github.com/T-Pirozzini/CSS-Grid-Workout">
+          <h2>12-Column Layout</h2>
           <div className="content">
-            <p>A Landing Page for my Rhyme of the Frostmaiden❄️ D&D Campaign</p>
+            <p>12-Column customizable CSS Grid layout</p>
           </div>
         </a>
       </article>
       <article className="project">        
-        <img src={Admin} alt="dnd application" />       
-        <a href="https://t-pirozzini.github.io/landing_page/">
-          <h2>D&D Landing Page</h2>
+        <img src={Admin} alt="admin-dashboard" />       
+        <a href="https://github.com/T-Pirozzini/admin-dashboard">
+          <h2>Admin Dashboard</h2>
           <div className="content">
-            <p>A Landing Page for my Rhyme of the Frostmaiden❄️ D&D Campaign</p>
+            <p>Responsive Web Design</p>
           </div>
         </a>
       </article>
       <article className="project">        
-        <img src={HolyGrail} alt="dnd application" />       
-        <a href="https://t-pirozzini.github.io/landing_page/">
-          <h2>D&D Landing Page</h2>
+        <img src={HolyGrail} alt="holy grail grid layout" />       
+        <a href="https://github.com/T-Pirozzini/CSS-Grid-Workout">
+          <h2>Holy Grail Layout</h2>
           <div className="content">
-            <p>A Landing Page for my Rhyme of the Frostmaiden❄️ D&D Campaign</p>
+            <p>Holy grail CSS Grid layout</p>
           </div>
         </a>
       </article>
       <article className="project">        
-        <img src={Masonry} alt="dnd application" />       
-        <a href="https://t-pirozzini.github.io/landing_page/">
-          <h2>D&D Landing Page</h2>
+        <img src={Masonry} alt="masonry grid layout" />       
+        <a href="https://github.com/T-Pirozzini/CSS-Grid-Workout">
+          <h2>Masonry Layout</h2>
           <div className="content">
-            <p>A Landing Page for my Rhyme of the Frostmaiden❄️ D&D Campaign</p>
+            <p>Masonry CSS Grid layout</p>
           </div>
         </a>
       </article>
       <article className="project">        
-        <img src={Portfolio} alt="dnd application" />       
-        <a href="https://t-pirozzini.github.io/landing_page/">
-          <h2>D&D Landing Page</h2>
+        <img src={Portfolio} alt="portfolio grid layout" />       
+        <a href="https://github.com/T-Pirozzini/CSS-Grid-Workout">
+          <h2>Portfolio Layout</h2>
           <div className="content">
-            <p>A Landing Page for my Rhyme of the Frostmaiden❄️ D&D Campaign</p>
+            <p>Portfolio CSS Grid layout</p>
           </div>
         </a>
       </article>
       <article className="project">        
-        <img src={Signup} alt="dnd application" />       
-        <a href="https://t-pirozzini.github.io/landing_page/">
-          <h2>D&D Landing Page</h2>
+        <img src={Signup} alt="signup form" />       
+        <a href="https://github.com/T-Pirozzini/signup-form">
+          <h2>Signup Form</h2>
           <div className="content">
-            <p>A Landing Page for my Rhyme of the Frostmaiden❄️ D&D Campaign</p>
+            <p>Responsive Web Design</p>
           </div>
         </a>
       </article>
