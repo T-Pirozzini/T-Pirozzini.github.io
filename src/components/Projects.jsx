@@ -43,7 +43,7 @@ export default function Projects() {
     <div className="projects">
 
     <article className="project">        
-        <img src={SportsDashboard} alt="fianance tracker application" />       
+        <img src={SportsDashboard} alt="sports dashboard application" />       
         <a href="https://financetracker-f047d.web.app/">
           <h2>FinanceTracker</h2>
           <div className="content">

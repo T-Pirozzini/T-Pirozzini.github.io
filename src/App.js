@@ -1,15 +1,17 @@
 import './App.css';
 import Projects from './components/Projects.jsx'
-import logo from './assets/images/triforce.png'
+import CodeLogo from './assets/images/Code-Logo.png'
 
 
 function App() {
   return (
     <div className="App">
-      <a href="index.html">
-			  <img src={logo} className="triforce" alt="triforce" />
-			</a>
-      <h1>Welcome to my Portfolio!</h1>
+      <div className="header">        
+        <a href="index.html">
+          <img src={CodeLogo} className="logo" alt="logo" />
+        </a>
+        <h1>Welcome to my Portfolio!</h1>
+      </div>
 			<p>Straight to the action - hover + click to access live demos & code below...</p>
       <Projects />
     </div>
