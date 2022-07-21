@@ -4,26 +4,18 @@
 .App {
   background-color: rgb(33, 78, 114);
   color: #fff;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
-.header {
-  background-color: 1px solid red;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+h1, h2, h3 {
+  margin: 0px;
+  padding: 0px;
 }
+
 .App > h1 {
   font-size: 4em;
 }
-h1, h2 {
+h1, h2, h3 {
   font-family: 'Marcellus SC', serif;
 }
 p {
   font-family: 'Kodchasan', sans-serif;
-}
-.logo {
-  width: 150px;  
 }

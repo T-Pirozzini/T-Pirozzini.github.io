@@ -1,0 +1,41 @@
+.heading-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.heading-welcome {  
+  margin: 40px;
+}
+.link {
+  display: flex;
+  align-items: center; 
+  text-decoration: none;
+  color: #fff; 
+}
+.logo {
+  width: 150px;
+  padding: 20px;  
+}
+
+.social {
+  width: 50%;
+  margin: 40px;
+  display: flex;
+  flex-direction: column;  
+  align-items: center;
+}
+.social-title {
+  display: flex;
+  flex-direction: column;  
+  align-items: center;
+}
+.social-icons {
+  display: flex;
+  width: 40%;  
+  justify-content: space-around;
+  font-size: 30px;
+}
+.social-icons > span:hover {
+  cursor: pointer;
+  color: orange
+}
