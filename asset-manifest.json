@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.e0126286.css",
+    "main.js": "/portfolio-site/static/js/main.fc93d99d.js",
+    "static/media/sports-dashboard-home.png": "/portfolio-site/static/media/sports-dashboard-home.2febd3ff62dc152178a5.png",
+    "static/media/spuddies-home.png": "/portfolio-site/static/media/spuddies-home.d80e2583ca1f9806be7d.png",
+    "static/media/food-truck-home.png": "/portfolio-site/static/media/food-truck-home.ae9cf23e3139418885ed.png",
+    "static/media/holy-grail-home.png": "/portfolio-site/static/media/holy-grail-home.236b65d58a8dec3399c3.png",
+    "static/media/portfolio-home.png": "/portfolio-site/static/media/portfolio-home.74e10d5d0b6fc4c6bd00.png",
+    "static/media/masonry-home.png": "/portfolio-site/static/media/masonry-home.79956093ac930b11409f.png",
+    "static/media/restaurant-home.png": "/portfolio-site/static/media/restaurant-home.927bf82d9ef37505caad.png",
+    "static/media/signup-home.png": "/portfolio-site/static/media/signup-home.30baa5b17d148ff25528.png",
+    "static/media/12-col-home.png": "/portfolio-site/static/media/12-col-home.110ba155335ffb9e37cf.png",
+    "static/media/gaming-home.png": "/portfolio-site/static/media/gaming-home.4ccd8ee94a7983415a80.png",
+    "static/media/dnd-home.png": "/portfolio-site/static/media/dnd-home.f8979c579bd1d9bac84e.png",
+    "static/media/tweeter-home.png": "/portfolio-site/static/media/tweeter-home.93229308c214600ab4fe.png",
+    "static/media/admin-home.png": "/portfolio-site/static/media/admin-home.bbba0b1e61a85059d0e4.png",
+    "static/media/bookshelf-home.png": "/portfolio-site/static/media/bookshelf-home.5746bb13d9f3416172dd.png",
+    "static/media/rps-home.png": "/portfolio-site/static/media/rps-home.06539b7613105cd24a3e.png",
+    "static/media/scheduler-home.png": "/portfolio-site/static/media/scheduler-home.fd328ade45c24ab76ab8.png",
+    "static/media/workflow-home.png": "/portfolio-site/static/media/workflow-home.113cbef93cb5f3a73d96.png",
+    "static/media/GPT-home.png": "/portfolio-site/static/media/GPT-home.1d5c6d32fe9e72090975.png",
+    "static/media/workout-home.png": "/portfolio-site/static/media/workout-home.4056d4e3579463ae7f75.png",
+    "static/media/cooking-home.png": "/portfolio-site/static/media/cooking-home.8a89798e82bc9ff22dea.png",
+    "static/media/shinobi-home.png": "/portfolio-site/static/media/shinobi-home.7dabc88e2bc165ac85c1.png",
+    "static/media/todo-home.png": "/portfolio-site/static/media/todo-home.fb7d0aa6ec7baa9190a5.png",
+    "static/media/dev-finder-home.png": "/portfolio-site/static/media/dev-finder-home.810e8e38eb97fa346d38.png",
+    "static/media/finance-tracker-home.png": "/portfolio-site/static/media/finance-tracker-home.6abcd6ecda8f2b7aff01.png",
+    "static/media/finance-home.png": "/portfolio-site/static/media/finance-home.52158cac2af14630cc0b.png",
+    "static/media/tictactoe-home.png": "/portfolio-site/static/media/tictactoe-home.dddfce379360ce60a9a4.png",
+    "static/media/etch-home.png": "/portfolio-site/static/media/etch-home.562a42a2bc44e05e5e16.png",
+    "static/media/calculator-home.png": "/portfolio-site/static/media/calculator-home.b69f6a91374e0e4f7e91.png",
+    "static/media/Code-Logo.png": "/portfolio-site/static/media/Code-Logo.03272aeae7a34425da20.png",
+    "index.html": "/portfolio-site/index.html",
+    "main.e0126286.css.map": "/portfolio-site/static/css/main.e0126286.css.map",
+    "main.fc93d99d.js.map": "/portfolio-site/static/js/main.fc93d99d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0126286.css",
+    "static/js/main.fc93d99d.js"
+  ]
+}
