@@ -33,9 +33,17 @@
   display: flex;
   width: 40%;  
   justify-content: space-around;
-  font-size: 30px;
+  font-size: 30px;  
 }
-.social-icons > span:hover {
+.social-icons > a {
+  color: white;
+}
+.social-icons > a:hover {
   cursor: pointer;
-  color: orange
+  color: orange;
+  text-decoration: none;
+}
+.social-icons > a:visited {  
+  /* color: white; */
+  /* text-decoration: none; */
 }
