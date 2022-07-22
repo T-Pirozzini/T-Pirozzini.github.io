@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.b53552ff.css",
+    "main.css": "/static/css/main.73ea8d30.css",
     "main.js": "/static/js/main.8f4c9a6c.js",
     "static/media/sports-dashboard-home.png": "/static/media/sports-dashboard-home.2febd3ff62dc152178a5.png",
     "static/media/spuddies-home.png": "/static/media/spuddies-home.d80e2583ca1f9806be7d.png",
@@ -32,11 +32,11 @@
     "static/media/calculator-home.png": "/static/media/calculator-home.b69f6a91374e0e4f7e91.png",
     "static/media/Code-Logo.png": "/static/media/Code-Logo.03272aeae7a34425da20.png",
     "index.html": "/index.html",
-    "main.b53552ff.css.map": "/static/css/main.b53552ff.css.map",
+    "main.73ea8d30.css.map": "/static/css/main.73ea8d30.css.map",
     "main.8f4c9a6c.js.map": "/static/js/main.8f4c9a6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b53552ff.css",
+    "static/css/main.73ea8d30.css",
     "static/js/main.8f4c9a6c.js"
   ]
 }
