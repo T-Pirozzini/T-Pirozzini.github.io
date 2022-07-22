@@ -11,12 +11,12 @@ export default function Navbar() {
   return (
     <div className="heading-main">      
       <div className="heading-welcome">       
-      <a className='link' href="index.html">
-        <img src={CodeLogo} className="logo" alt="logo" />
-      <h1>Welcome to my Portfolio!</h1>
-      </a>
-      <p>Straight to the action!</p>
-      <p>hover + right-click to access live demos & code below...</p>
+        <a className='link' href="index.html">
+          <img src={CodeLogo} className="logo" alt="logo" />
+          <h1>Welcome to my Portfolio!</h1>
+        </a>
+        <p>Straight to the action!</p>
+        <p>hover + right-click to access live demos & code below...</p>
       </div>
       <div className="social">
         <div className="social-title">

@@ -43,3 +43,29 @@
   color: orange;
   text-decoration: none;
 }
+
+@media screen and (max-width: 450px) {
+  .heading-main {    
+    flex-direction: column;       
+  }  
+  .heading-welcome > p {
+    display: none;
+    margin: 0px;
+  }
+  .social {
+    width: 90%;
+    margin: 20px;
+  }
+  .social-icons {
+    width: 60%;
+  }
+  .logo {
+    width: 100px;    
+    align-self: center;    
+    padding: 0px;       
+  }
+  a {
+    display: flex;
+    flex-direction: column;
+  }
+}
