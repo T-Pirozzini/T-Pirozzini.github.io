@@ -59,5 +59,18 @@
     text-align: center;
   }
 }
-
+@media screen and (max-width: 750px) {
+  .projects {
+    grid-template-columns: 1fr 1fr;
+  }
+  .project { 
+    height: 200px;  
+  }
+}
+@media screen and (max-width: 560px) {
+  .projects {
+    grid-template-columns: 1fr;
+  }
+  
+}
 
