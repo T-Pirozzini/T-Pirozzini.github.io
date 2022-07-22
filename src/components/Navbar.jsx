@@ -6,8 +6,6 @@ import { SiMinutemailer } from 'react-icons/si'
 import { AiOutlineLinkedin } from 'react-icons/ai'
 import { SiStrava } from 'react-icons/si'
 import { SiDiscord } from 'react-icons/si'
-import { SiSlack } from 'react-icons/si'
-import { SiSteam } from 'react-icons/si'
 
 export default function Navbar() {
   return (
