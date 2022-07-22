@@ -26,7 +26,7 @@ export default function Navbar() {
           <h3>Full-Stack Web Developer</h3>
         </div>
         <p>Whether it is planting half a million trees, trail-racing on mountains, taking down an Ancient Blue Dragon in D&D, or learning to code - I seek the challenge.</p>
-        <p>I am currently seeking my first full-time development role. Feel free to connect with me on your preferred social platform.</p>
+        <p>I am currently looking for my first full-time development role. Feel free to connect with me on your preferred social platform.</p>
         <div className="social-icons">
           <a href='https://github.com/T-Pirozzini'><VscGithub /></a>
           <a href='https://www.linkedin.com/in/travis-pirozzini-2522b5115/'><AiOutlineLinkedin /></a>
